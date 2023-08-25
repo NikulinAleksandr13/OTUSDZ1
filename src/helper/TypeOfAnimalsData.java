@@ -1,6 +1,6 @@
 package helper;
 
-public enum TypeOfAnimals {
+public enum TypeOfAnimalsData {
     CAT,
     DOG,
     DUCK

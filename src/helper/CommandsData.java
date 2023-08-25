@@ -1,6 +1,6 @@
 package helper;
 
-public enum Commands {
+public enum CommandsData {
     ADD,
     LIST,
     EXIT

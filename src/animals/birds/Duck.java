@@ -1,6 +1,8 @@
-package animals;
+package animals.birds;
 
-public class Duck extends Animal implements IFying{
+import animals.Animal;
+
+public class Duck extends Animal implements IFying {
 
     public Duck(String name, int age, double weight, String color) {
         super(name, age, weight, color);
